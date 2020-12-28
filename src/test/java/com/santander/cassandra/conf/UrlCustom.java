@@ -9,7 +9,7 @@ import java.net.URL;
 public class UrlCustom {
 
     public static final String VERSION = "3.11.9";
-    public static final String URL = "http://artifactory.santanderbr.corp/artifactory/webapp/#/artifacts/browse/tree/General/raw-downloads/cassandra/3.11.9/apache-cassandra-3.11.9-bin.tar.gz";
+    public static final String URL = "http://artifactory.santanderbr.corp/artifactory/raw-downloads/cassandra/3.11.9/apache-cassandra-3.11.9-bin.tar.gz";
 ";
 
     private final UrlFactory url = version -> {
